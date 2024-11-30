@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore deployment and log files
+*.log
+
+# Ignore node_modules if using Node.js for the frontend
+node_modules/
+
+# Ignore frontend build files
+dist/
+build/
